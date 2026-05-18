@@ -262,9 +262,3 @@ Search algorithms are essentially **applied graph theory** with a goal-finding t
 - **Hamiltonian-style problems** — AI search generalizes the idea of visiting nodes to reach a destination (though it doesn't require visiting *every* node like a true Hamiltonian path).
 - **NP-hardness** — the reason heuristics (A*) exist is because exhaustive search on large state spaces becomes computationally intractable, similar to why Traveling Salesman is hard.
 - **Trees** — minimax is essentially recursive tree traversal with alternating perspectives at each level.
-
----
-
-## Lecture Complete ✅
-
-Up next: **Project 0** — Degrees (BFS) and Tic-Tac-Toe (Minimax).
